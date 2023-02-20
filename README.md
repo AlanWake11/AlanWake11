@@ -6,5 +6,8 @@
 - 🖥️ Email: alanpalexandre@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-
-
+<div style="display": "inline-block"><br>
+  <img height= "150px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height= "150px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
+  <img height= "150px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
