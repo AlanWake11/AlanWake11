@@ -1,7 +1,7 @@
 ### Olá, Eu sou Alan! 
 
 - 🖥️ Cursando Ensino Superior: Ciência da Computação (3° Semestre) | Unip
-- ✏️ Aprendendo linguagens de programação: Python, Java, C++
+- ✏️ Aprendendo linguagens de programação: Python
 - 🎙️ Linguas: Inglês intermediário 
 - 📝 Procurando emprego na área de tecnologia
 - 📱 Contato: 15 99141-4708
