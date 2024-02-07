@@ -1,7 +1,7 @@
 ### Olá, Eu sou Alan! 
 
 - 🖥️ Cursando Ensino Superior: Ciência da Computação (5° Semestre) | Unip
-- ✏️ Conhecimentos básicos de linguagem de programação: Python, HTML, CSS, Javascript, Java, C++, Pacore Office
+- ✏️ Conhecimentos básicos de linguagem de programação: Python, HTML, CSS, Javascript, Java, C++, Pacote Office
 - 🎙️ Linguas: Inglês intermediário 
 - 📝 Procurando emprego na área de tecnologia
 - 📱 Contato: 15 99141-4708
