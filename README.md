@@ -13,7 +13,7 @@ Cursos Complementares:
 - Python 3 | Cursoemvideo
 - DP-900 Implantação e Análise de Dados em Nuvens | SENAI
 - AZ-900 Implantação de Serviços em Nuvem | SENAI
-- PL-900 Microsoft Power Platform
+- PL-900 Microsoft Power Platform | SENAI
 - Power BI | SENAI
 
 <div style="display": "inline-block"><br>
